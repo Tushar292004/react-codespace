@@ -1,5 +1,10 @@
-React.js is a JavaScript library developed by engineers at Facebook.
-Features : fast, modular, scalable, flexible, popular
+<p><a target="_blank" href="https://app.eraser.io/workspace/orOdA0Z8Jq4M8eeZha1v" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+
+**React - Js **
+
+Understanding react from roots 
 
 
-JSX is a syntax extension for JavaScript. means that JSX is not valid JavaScript. Web browsers can’t read it! This means that before the file reaches a web browser, a JSX compiler will translate any JSX into regular JavaScript.
+
+
+<!--- Eraser file: https://app.eraser.io/workspace/orOdA0Z8Jq4M8eeZha1v --->
